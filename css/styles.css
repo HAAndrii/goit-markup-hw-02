@@ -5,7 +5,7 @@
 
     --first-color: #212121;
     --second-color: #757575;
-    --address-color:rgba(255, 255, 255, 0.6);
+    --address-color: rgba(255, 255, 255, 0.6);
 
     --bg-hero: #2F303A;
     --bg-main: #FFFFFF;
@@ -18,7 +18,7 @@
     color: var(--first-color);
 }
 
-.button{
+.button {
     cursor: pointer;
 }
 
@@ -166,11 +166,11 @@
 }
 
 /* footer */
-.footer{
+.footer {
     background-color: var(--bg-hero)
 }
 
-.footer-logo{
+.footer-logo {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -179,22 +179,22 @@
     letter-spacing: 0.03em;
 }
 
-.footer-logo-first{
+.footer-logo-first {
     color: var(--acсent-color);
 }
 
-.footer-logo-second{
+.footer-logo-second {
     color: var(--logo-second-color);
 }
 
-.address-post{
+.address-post {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: var(--logo-second-color);
 }
 
-.address-list-link{
+.address-list-link {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -206,7 +206,7 @@
     color: var(--acсent-color)
 }
 
-.portfolio-list-button{
+.portfolio-list-button {
     background: var(--bg-second);
     font-family: inherit;
     font-weight: 500;
@@ -222,11 +222,11 @@
     background-color: var(--acсent-color);
 }
 
-.active-button{
+.active-button {
     background-color: var(--acсent-color);
 }
 
-.portfolio-client-name{
+.portfolio-client-name {
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -234,7 +234,7 @@
     color: var(--first-color);
 }
 
-.portfolio-client-desc{
+.portfolio-client-desc {
     font-size: 16px;
     line-height: 1.88;
     letter-spacing: 0.03em;
