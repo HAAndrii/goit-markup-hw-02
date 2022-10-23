@@ -12,7 +12,7 @@
     --bg-second: #F5F4FA;
 }
 
-.body {
+body {
     font-family: 'Roboto', sans-serif;
     background-color: var(--bg-main);
     color: var(--first-color);
@@ -199,6 +199,7 @@
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: var(--address-color);
+    font-style: normal;
 }
 
 .address-list-link:hover,
